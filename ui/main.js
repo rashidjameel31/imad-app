@@ -1,3 +1,3 @@
 console.log('Loaded!');
-var rambo = document.getelementbyid("rj");
+var rambo = document.getElementById("rj");
 rambo.innerHTML = 'there is a cahnge';

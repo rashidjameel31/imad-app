@@ -5,5 +5,5 @@ rambo.innerHTML = 'there is a cahnge';
 var img = document.getElementById("rjx");
 img.onclick = function() 
 {
-    img.style.marginleft="200px";
+    img.style.marginLeft="200px";
 };
